@@ -42,6 +42,8 @@
                 android:layout_height="wrap_content"
                 android:layout_marginTop="4dp"
                 android:text="프로필 및 정보 수정"
+                android:textSize="12sp"
+                android:textStyle="bold"
                 android:textColor="@color/amber_300"/>
 
         </LinearLayout>
@@ -91,7 +93,7 @@
             android:layout_width="32dp"
             android:layout_height="32dp"
             android:layout_marginStart="72dp"
-            android:src="@drawable/ellipse22"
+            android:src="@drawable/custom_oval"
             android:tint="@color/purple_300"/>
 
 
@@ -134,7 +136,7 @@
             android:layout_width="32dp"
             android:layout_height="32dp"
             android:layout_marginStart="86dp"
-            android:src="@drawable/ellipse22"
+            android:src="@drawable/custom_oval"
             android:tint="@color/lime_300"/>
 
 
@@ -178,7 +180,7 @@
             android:layout_width="32dp"
             android:layout_height="32dp"
             android:layout_marginStart="60dp"
-            android:src="@drawable/ellipse22"
+            android:src="@drawable/custom_oval"
             android:tint="@color/light_blue_300"/>
 
 
@@ -222,7 +224,7 @@
             android:layout_width="32dp"
             android:layout_height="32dp"
             android:layout_marginStart="96dp"
-            android:src="@drawable/ellipse22"
+            android:src="@drawable/custom_oval"
             android:tint="@color/orange_300"/>
 
 
